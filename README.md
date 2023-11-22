@@ -1,7 +1,7 @@
 # Competición de Kaggle - W7 [Ironhack](https://www.ironhack.com/) Data OCTUBRE'23:snake: 
 
 
-<p align="center"> <img src="https://github.com/Ironhack-Data-Madrid-Abril-2023/w7-project_kaggle/blob/main/lapsimg.jpg">  </p>
+<p align="center"> <img src="https://p4.wallpaperbetter.com/wallpaper/949/904/16/cityscape-eagle-view-manhattan-new-york-city-wallpaper-preview.jpg">  </p>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [¡¡¡QUE EMPIECE EL JUEGO!!!](
 https://www.kaggle.com/competitions/predicting-airbnb-prices)  
@@ -59,6 +59,6 @@ Enlace a la competición: https://www.kaggle.com/competitions/predicting-airbnb-
 
 <br />
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <bn > 💁🏻‍♀️💁🏻  JAIME, JEANCHA, YONA Y CARLOS OS DESEAMOS HAPPY MACHINE LEARNING WEEK  <bn />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <bn > 💁🏻‍♀️💁🏻  YONA, JAIME, JEANCHA Y CARLOS OS DESEAMOS HAPPY MACHINE LEARNING WEEK  <bn />
 
 <p align="center"> <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">   </p>
